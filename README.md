@@ -1,6 +1,6 @@
 # About Me 👩‍💻✨  
 
-Hi there! 👋 My name is **Ashley**, and I’m a **Technical Assistant** at **Industrial Light & Magic (Disney)** 🌟. I graduated from **Bournemouth University** with an MSc in **Computer Animation & Visual Effects** 🎓. Bringing pixels to life is not just a career for me; it’s my passion! 💖  
+Hi there! 👋 My name is **Ashley**, and I’m a **Technical Assistant** at **Industrial Light & Magic (Disney)** 🌟. I graduated from **Bournemouth University** with an MSc in **Computer Animation & Visual Effects** 🎓. Turning creative ideas into stunning visuals is more than just a job for me—it's a true passion! 🎨✨ 
 
 ---
 
