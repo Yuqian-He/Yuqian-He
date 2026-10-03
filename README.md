@@ -1,22 +1,26 @@
-# About Me 👩‍💻✨  
+# Hi, I'm Ashley 👩‍💻
 
-Hi there! 👋 My name is **Ashley**, and I’m a **Associated Pipeline Technical Director** at **Industrial Light & Magic (Disney)** 🌟. I graduated from **Bournemouth University** with an MSc in **Computer Animation & Visual Effects** 🎓. Turning creative ideas into stunning visuals is more than just a job for me -—- it's a true passion! 🎨✨ 
+I'm an **Associate Pipeline Technical Director at Industrial Light & Magic (ILM)**, working on production pipeline and tools for visual effects.
 
----
+My background is in **Computer Animation & Visual Effects**, and my main interests are **software engineering, computer graphics, rendering, and developer tools**.
 
-## Personal Interests 🎥  
+I work primarily with **Python** in production and am currently developing deeper expertise in **C++**, graphics programming, and performance-oriented software development.
 
-I'm passionate about **Computer Graphics**, **VFX**, and **CGI** 🖥️✨, especially using **C++** to build powerful tools. In the past, I’ve developed tools for **Maya**, **Houdini**, and **Unreal Engine**, focusing on enhancing workflows 🎮.  
+## Areas of Interest
 
-Recently, I’ve become more interested in **rendering**, specifically exploring **real-time graphics** and modern **3D APIs** like **Direct3D**, **OpenGL**, and **Vulkan**.  
+- Pipeline & Tools Engineering
+- C++ / Python
+- Computer Graphics
+- Rendering & Real-Time Graphics
+- Maya / Houdini / Unreal Engine
+- Direct3D / OpenGL / Vulkan
+- Performance Profiling & Debugging
 
----
+## Currently Learning
 
-## What I’m Learning 📚  
-
-I’m currently diving deeper into:  
-- 3D Graphics APIs (Direct3D 11+, OpenGL, Vulkan).  
-- Optimizing performance with tools like **PIX**, **Razor**, **VTune**, etc.  
-- Debugging graphics pipelines using **Renderdoc** and other platform tools.  
-
-Let’s connect if you’re into graphics, tools, or VFX! 🚀  
+- Modern C++
+- Data Structures & Algorithms
+- Rendering Pipelines
+- Graphics APIs
+- GPU/CPU Profiling
+- RenderDoc, PIX, VTune
